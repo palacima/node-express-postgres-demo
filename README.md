@@ -1,4 +1,8 @@
 # Running Demo
+
+This project demos node and express paired with postgres to create a very simple database of star wars characters and where they have traveled.
+
+
 Launch `psql` to make a user for Node  
 In psql run
 ```
