@@ -7,7 +7,9 @@ SELECT * FROM pg_user; # verify user was created
 ```
 
 RUN `chmod 700 ./bin/configdb`
-RUN `npm run config`
 
-
-RUN `npm run dev`
+```
+npm install
+npm run config
+npm run dev
+```
